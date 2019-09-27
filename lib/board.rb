@@ -1,3 +1,3 @@
 # Define the variable board below.
 
-borard = []
+borard = Array(0..9)
